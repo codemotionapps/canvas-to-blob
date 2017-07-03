@@ -1,0 +1,27 @@
+{
+  "name": "@codemotion/canvas-to-blob",
+  "version": "1.0.0",
+  "description": "Implements the standard HTML5 canvas.toBlob() and canvas.toBlobHD() methods in browsers that do not natively support it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemotionapps/canvas-to-blob.git"
+  },
+  "keywords": [
+    "canvas",
+    "blob",
+    "polyfill"
+  ],
+  "author": "Eli Grey <~@eligrey.com> (http://eligrey.com)",
+  "contributors": [
+    "Devin Samarin <me@dsamar.in>"    
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemotionapps/canvas-to-blob/issues"
+  },
+  "homepage": "https://github.com/codemotionapps/canvas-to-blob#readme"
+}
